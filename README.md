@@ -1,2 +1,3 @@
-# dio-desafio-github
-Desafio de Projeto Git/GitHub - Bootcamp Spread
+## Desafio de Projeto Git/GitHub da DIO - Bootcamp Spread
+
+Repositório com a finalidade de projeto para o bootcamp da DIO.
